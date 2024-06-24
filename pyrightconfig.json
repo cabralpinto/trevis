@@ -1,0 +1,5 @@
+{
+  "typeCheckingMode": "strict",
+  "reportUnknownVariableType": "none",
+  "reportUnknownLambdaType": "none",
+}
